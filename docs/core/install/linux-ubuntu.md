@@ -41,6 +41,13 @@ The following versions of .NET are no longer supported. The downloads for these 
 - 2.2
 - 2.0
 
+## Check OS version
+
+Open a terminal and run the following command:
+```bash
+cat /etc/issue
+```
+
 ## Remove preview versions
 
 [!INCLUDE [package-manager uninstall notice](./includes/linux-uninstall-preview-info.md)]
